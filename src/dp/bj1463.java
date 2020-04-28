@@ -10,9 +10,8 @@ import java.util.Scanner;
  */
 
 //Top down
-/*
 public class bj1463 {
-	static int[] C;
+	static int[] C; // 최소연산횟수 저장해놓는 배열 
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -37,8 +36,8 @@ public class bj1463 {
 	
 
 }
-*/
 
+/*
 //Bottom up
 public class bj1463 {
 	static int[] C;
@@ -49,7 +48,7 @@ public class bj1463 {
 		Scanner s = new Scanner(System.in);
 		int n = s.nextInt(); // 정수입력받음
 		
-		C = new int[n+1]; // 배열크기 지정
+		C = new int[n+1];
 		
 		System.out.println(make1(n));
 		s.close();
@@ -68,3 +67,4 @@ public class bj1463 {
 	}
 
 }
+*/
