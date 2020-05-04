@@ -8,9 +8,9 @@ dp : 동적 프로그래밍 https://hu-coding.tistory.com/22
 - 2156 : 포도주 시식 https://www.acmicpc.net/problem/2156
 
 200502
-- 1912
+- 1912 : 연속합 https://www.acmicpc.net/problem/1912
 
-200502~20059
+200502~200509
 - 2225 : 합분해 https://www.acmicpc.net/problem/2225
 - 11726 : 2×n 타일링 https://www.acmicpc.net/problem/11726
 - 9461 : 파도반 수열 https://www.acmicpc.net/problem/9461
