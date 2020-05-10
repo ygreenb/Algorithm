@@ -17,5 +17,9 @@ dp : 동적 프로그래밍 https://hu-coding.tistory.com/22
 - 2293: 동전 1 https://www.acmicpc.net/problem/2293
 
 200509~200517
-dp - 1932, 14501
-최대공배수 - 3036, 2609
+- 1932 : 정수삼각형 https://www.acmicpc.net/problem/1932
+- 14501 : 퇴사 https://www.acmicpc.net/problem/14501
+
+최대공배수, 최소공약수
+- 3036 : 링 https://www.acmicpc.net/problem/3036
+- 2609 : 최대공약수와 최대공배수 https://www.acmicpc.net/problem/2609
