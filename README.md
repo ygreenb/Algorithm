@@ -15,3 +15,7 @@ dp : 동적 프로그래밍 https://hu-coding.tistory.com/22
 - 11726 : 2×n 타일링 https://www.acmicpc.net/problem/11726
 - 9461 : 파도반 수열 https://www.acmicpc.net/problem/9461
 - 2293: 동전 1 https://www.acmicpc.net/problem/2293
+
+200509~200517
+dp - 1932, 14501
+최대공배수 - 3036, 2609
