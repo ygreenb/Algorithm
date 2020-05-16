@@ -3,7 +3,7 @@ package dp;
 import java.util.Scanner;
 
 /*
- * bj2293.java
+ * bj1932.java
  * 백준 1932번 : 정수삼각형
  * version 1.0
  * data 2020.05.15
