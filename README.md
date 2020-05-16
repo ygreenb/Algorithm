@@ -17,9 +17,9 @@ dp : [동적 프로그래밍](https://hu-coding.tistory.com/22)
 - [2293](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj2293.java): 동전 1 [풀이](https://hu-coding.tistory.com/31) https://www.acmicpc.net/problem/2293
 
 **200509~200517**
-- 1932 : 정수삼각형 https://www.acmicpc.net/problem/1932
-- 14501 : 퇴사 https://www.acmicpc.net/problem/14501
+- [1932](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1932.java) : 정수삼각형 [풀이](https://hu-coding.tistory.com/32) https://www.acmicpc.net/problem/1932
+- [14501]((https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj14501.java) : 퇴사 [풀이](https://hu-coding.tistory.com/33) https://www.acmicpc.net/problem/14501
 
 최대공배수, 최소공약수
-- 3036 : 링 https://www.acmicpc.net/problem/3036
-- 2609 : 최대공약수와 최대공배수 https://www.acmicpc.net/problem/2609
+- [2609](https://github.com/nhj7911/Algorithm_java/blob/master/src/lcmgcd/bj2609.java) : 최대공약수와 최대공배수 [풀이](https://hu-coding.tistory.com/34) https://www.acmicpc.net/problem/2609
+- [3036](https://github.com/nhj7911/Algorithm_java/blob/master/src/lcmgcd/bj3036.java) : 링 [풀이](https://hu-coding.tistory.com/35) https://www.acmicpc.net/problem/3036
