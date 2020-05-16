@@ -18,7 +18,7 @@ dp : [동적 프로그래밍](https://hu-coding.tistory.com/22)
 
 **200509~200517**
 - [1932](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1932.java) : 정수삼각형 [풀이](https://hu-coding.tistory.com/32) https://www.acmicpc.net/problem/1932
-- [14501]((https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj14501.java) : 퇴사 [풀이](https://hu-coding.tistory.com/33) https://www.acmicpc.net/problem/14501
+- [14501](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj14501.java) : 퇴사 [풀이](https://hu-coding.tistory.com/33) https://www.acmicpc.net/problem/14501
 
 최대공배수, 최소공약수
 - [2609](https://github.com/nhj7911/Algorithm_java/blob/master/src/lcmgcd/bj2609.java) : 최대공약수와 최대공배수 [풀이](https://hu-coding.tistory.com/34) https://www.acmicpc.net/problem/2609
