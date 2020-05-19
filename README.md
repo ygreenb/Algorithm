@@ -23,3 +23,14 @@ dp : [동적 프로그래밍](https://hu-coding.tistory.com/22)
 최대공배수, 최소공약수
 - [2609](https://github.com/nhj7911/Algorithm_java/blob/master/src/lcmgcd/bj2609.java) : 최대공약수와 최대공배수 [풀이](https://hu-coding.tistory.com/34) https://www.acmicpc.net/problem/2609
 - [3036](https://github.com/nhj7911/Algorithm_java/blob/master/src/lcmgcd/bj3036.java) : 링 [풀이](https://hu-coding.tistory.com/35) https://www.acmicpc.net/problem/3036
+
+**200517~200523**
+dp
+- [1890](https://www.acmicpc.net/problem/1890) : 점프
+
+정렬
+- [1026](https://www.acmicpc.net/problem/18900 : 보물
+
+그래프
+- [11724](https://www.acmicpc.net/problem/1890) : 연결 요소의 개수
+- [1260](https://www.acmicpc.net/problem/1890) : DFS와 BFS
