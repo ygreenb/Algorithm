@@ -29,7 +29,7 @@ dp
 - [1890](https://www.acmicpc.net/problem/1890) : 점프
 
 정렬
-- [1026](https://www.acmicpc.net/problem/18900 : 보물
+- [1026](https://www.acmicpc.net/problem/18900) : 보물
 
 그래프
 - [11724](https://www.acmicpc.net/problem/1890) : 연결 요소의 개수
