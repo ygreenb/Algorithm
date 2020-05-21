@@ -11,23 +11,23 @@ dp : [동적 프로그래밍](https://hu-coding.tistory.com/22)
 - [1912](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1912.java) : 연속합 https://www.acmicpc.net/problem/1912
 
 **200502~200509**
-- [2225](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj2225.java) : 합분해 [풀이](https://hu-coding.tistory.com/28) https://www.acmicpc.net/problem/2225
-- [11726](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj11726.java) : 2×n 타일링 [풀이](https://hu-coding.tistory.com/29) https://www.acmicpc.net/problem/11726
-- [9461](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj9461.java) : 파도반 수열 [풀이](https://hu-coding.tistory.com/30) https://www.acmicpc.net/problem/9461
-- [2293](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj2293.java): 동전 1 [풀이](https://hu-coding.tistory.com/31) https://www.acmicpc.net/problem/2293
+- [2225](https://www.acmicpc.net/problem/2225) : 합분해 [풀이](https://hu-coding.tistory.com/28) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj2225.java)
+- [11726](https://www.acmicpc.net/problem/11726) : 2×n 타일링 [풀이](https://hu-coding.tistory.com/29) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj11726.java)
+- [9461](https://www.acmicpc.net/problem/9461) : 파도반 수열 [풀이](https://hu-coding.tistory.com/30) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj9461.java)
+- [2293](https://www.acmicpc.net/problem/2293): 동전 1 [풀이](https://hu-coding.tistory.com/31) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj2293.java)
 
 **200509~200517**
-- [1932](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1932.java) : 정수삼각형 [풀이](https://hu-coding.tistory.com/32) https://www.acmicpc.net/problem/1932
-- [14501](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj14501.java) : 퇴사 [풀이](https://hu-coding.tistory.com/33) https://www.acmicpc.net/problem/14501
+- [1932](https://www.acmicpc.net/problem/1932) : 정수삼각형 [풀이](https://hu-coding.tistory.com/32)  / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1932.java)
+- [14501](https://www.acmicpc.net/problem/14501) : 퇴사 [풀이](https://hu-coding.tistory.com/33) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj14501.java)
 
 최대공배수, 최소공약수
-- [2609](https://github.com/nhj7911/Algorithm_java/blob/master/src/lcmgcd/bj2609.java) : 최대공약수와 최대공배수 [풀이](https://hu-coding.tistory.com/34) https://www.acmicpc.net/problem/2609
-- [3036](https://github.com/nhj7911/Algorithm_java/blob/master/src/lcmgcd/bj3036.java) : 링 [풀이](https://hu-coding.tistory.com/35)  https://www.acmicpc.net/problem/3036
+- [2609](https://www.acmicpc.net/problem/2609) : 최대공약수와 최대공배수 [풀이](https://hu-coding.tistory.com/34) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/lcmgcd/bj2609.java)
+- [3036](https://www.acmicpc.net/problem/3036) : 링 [풀이](https://hu-coding.tistory.com/35) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/lcmgcd/bj3036.java)
 
 **200517~200523**
 
 dp
-- [1890](https://www.acmicpc.net/problem/1890) : 점프 [풀이](https://hu-coding.tistory.com/36) [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1890.java)
+- [1890](https://www.acmicpc.net/problem/1890) : 점프 [풀이](https://hu-coding.tistory.com/36) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1890.java)
 
 정렬
 - [1026](https://www.acmicpc.net/problem/1890) : 보물
