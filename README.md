@@ -30,8 +30,8 @@ dp
 - [1890](https://www.acmicpc.net/problem/1890) : 점프 [풀이](https://hu-coding.tistory.com/36) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1890.java)
 
 정렬
-- [1026](https://www.acmicpc.net/problem/1890) : 보물
+- [1026](https://www.acmicpc.net/problem/1026) : 보물
 
 그래프
-- [11724](https://www.acmicpc.net/problem/1890) : 연결 요소의 개수
-- [1260](https://www.acmicpc.net/problem/1890) : DFS와 BFS
+- [11724](https://www.acmicpc.net/problem/11724) : 연결 요소의 개수
+- [1260](https://www.acmicpc.net/problem/1260) : DFS와 BFS
