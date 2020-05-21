@@ -2,6 +2,13 @@ package dp;
 
 import java.util.Scanner;
 
+/*
+ * bj1890.java
+ * 백준 1890번 : 점프
+ * version 1.0
+ * data 2020.05.21
+ */
+
 public class bj1890 {
 	static int n;
 	
