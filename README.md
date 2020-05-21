@@ -3,12 +3,12 @@
 dp : [동적 프로그래밍](https://hu-coding.tistory.com/22)
 
 **200423~200430**
-- [1463](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1463.java) : 1로 만들기 https://www.acmicpc.net/problem/1463
-- [1149](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1149.java) : RGB거리 https://www.acmicpc.net/problem/1149
-- [2156](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj2156.java) : 포도주 시식 https://www.acmicpc.net/problem/2156
+- [1463](https://www.acmicpc.net/problem/1463) : 1로 만들기 [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1463.java)
+- [1149](https://www.acmicpc.net/problem/1149) : RGB거리 [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1149.java)
+- [2156](https://www.acmicpc.net/problem/2156) : 포도주 시식 [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj2156.java)
 
 **200502**
-- [1912](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1912.java) : 연속합 https://www.acmicpc.net/problem/1912
+- [1912](https://www.acmicpc.net/problem/1912): 연속합 [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj1912.java) 
 
 **200502~200509**
 - [2225](https://www.acmicpc.net/problem/2225) : 합분해 [풀이](https://hu-coding.tistory.com/28) / [코드](https://github.com/nhj7911/Algorithm_java/blob/master/src/dp/bj2225.java)
