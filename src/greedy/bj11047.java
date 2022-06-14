@@ -9,7 +9,6 @@ package greedy;
 import java.util.Scanner;
 
 public class bj11047 {
-
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		
