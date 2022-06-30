@@ -8,4 +8,4 @@
 | **Graph**                          | [🥈1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) [🥈11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724) [🥈1325 효율적인 해킹]() [🥈 1697 숨바꼭질](https://www.acmicpc.net/problem/1697) |
 | **Greedy**                            | [🥈1931 회의실배정](https://www.acmicpc.net/problem/1931) [🥈11047 동전0](https://www.acmicpc.net/problem/11047) [🥇1744 수 묶기](https://www.acmicpc.net/problem/1744)  |
 | **Sort**                                | [🥈1026 보물](https://www.acmicpc.net/problem/1026) |
-| **최대공배수, 최소공약수**            | [🥉2609 최대공약수와 최대공배수](https://www.acmicpc.net/problem/2609) [🥈3036 링](https://www.acmicpc.net/problem/3036) |
+| **GCD, LCM**            | [🥉2609 최대공약수와 최대공배수](https://www.acmicpc.net/problem/2609) [🥈3036 링](https://www.acmicpc.net/problem/3036) |
