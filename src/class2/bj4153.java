@@ -1,3 +1,4 @@
+package class2;
 /*
  * bj4153.java
  * 백준 4153번 : 직각삼각형

@@ -1,3 +1,4 @@
+package class2;
 /*
  * bj1085.java
  * 백준 1085번 : 직사각형에서 탈출
