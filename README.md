@@ -1,4 +1,4 @@
-
+<!--
 | 분류                             | 문제                                                         |
 | -------------------------------- | ------------------------------------------------------------ |
 | **Backtracking**                   | [🥇9663 N-Queen](https://www.acmicpc.net/problem/9663)  [🥇1759 암호만들기](https://www.acmicpc.net/problem/1759) |
@@ -9,3 +9,4 @@
 | **Greedy**                            | [🥈1931 회의실배정](https://www.acmicpc.net/problem/1931) [🥈11047 동전0](https://www.acmicpc.net/problem/11047) [🥇1744 수 묶기](https://www.acmicpc.net/problem/1744)  |
 | **Sort**                                | [🥈1026 보물](https://www.acmicpc.net/problem/1026) |
 | **GCD, LCM**            | [🥉2609 최대공약수와 최대공배수](https://www.acmicpc.net/problem/2609) [🥈3036 링](https://www.acmicpc.net/problem/3036) |
+-->
