@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
-import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -11,16 +10,23 @@ public class Main {
 		int N = Integer.parseInt(st.nextToken());	
 		int K = Integer.parseInt(st.nextToken());	
 
-		Queue<Integer> q = new LinkedList<>();
-		for(int i=1;i<=N;i++) q.offer(i);
+		LinkedList<Integer> list = new LinkedList<>();
+		for(int i=1;i<=N;i++) list.add(i);
 
 		StringBuilder sb = new StringBuilder();
 		sb.append("<");
-		while(q.size()>1) {
-			for(int i=1;i<K;i++) q.offer(q.poll());
-			sb.append(q.poll()).append(", ");
+		int index = 0; // 리스트에서 삭제할 요소의 인덱스
+		
+		while(N>1) {
+			index = (index + (K-1)) % N; // 범위 밖 참조 에러 방지
+			
+			// index 요소 삭제+출력
+			sb.append(list.remove(index)).append(", ");
+			N--;
 		}		
-		sb.append(q.poll()).append(">");
+
+		//마지막 요소 삭제+출력
+		sb.append(list.remove()).append(">");
 		System.out.println(sb);
 	}
 }
