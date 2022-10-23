@@ -15,11 +15,12 @@ public class Main {
 		for(int i=1;i<=N;i++) q.offer(i);
 
 		StringBuilder sb = new StringBuilder();
-		while(!q.isEmpty()) {
+		sb.append("<");
+		while(q.size()>1) {
 			for(int i=1;i<K;i++) q.offer(q.poll());
-			sb.append(q.poll());
-			if(!q.isEmpty()) sb.append(", ");
+			sb.append(q.poll()).append(", ");
 		}		
-		System.out.println("<"+sb+">");
+		sb.append(q.poll()).append(">");
+		System.out.println(sb);
 	}
 }
