@@ -1,7 +1,9 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 public class Main {
   static private int N;
@@ -30,7 +32,8 @@ public class Main {
       adjacencyList.get(b).add(a);
     }
 
-    dfs(1);
+    // dfs(1);
+    bfs(1);
 
     for (int i = 2; i <= N; i++) {
       System.out.println(parentNode[i]);
@@ -46,5 +49,24 @@ public class Main {
         dfs(neighbor);
       }
     }
+  }
+
+  public static void bfs(int v) {
+    Queue<Integer> queue = new LinkedList<>();
+    queue.offer(v);
+    visited[v] = true;
+
+    while (!queue.isEmpty()) {
+      int currentV = queue.poll();
+
+      for (int neighbor : adjacencyList.get(currentV)) {
+        if (!visited[neighbor]) {
+          visited[neighbor] = true;
+          parentNode[neighbor] = currentV;
+          queue.offer(neighbor);
+        }
+      }
+    }
+
   }
 }
